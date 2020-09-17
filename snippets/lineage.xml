@@ -4,7 +4,7 @@
     <!-- KekHunter additions -->
     <project path="external/bash" name="PWN-Hunter/android_external_bash" remote="pwn" />
     <project path="packages/apps/NetHunter-T420" name="PWN-Hunter/NetHunter-T420" remote="pwn" revision="nhapps" />
-    <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" />
+    <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" revision="lineage-17.1" />
 
     
   <!-- LineageOS additions -->
