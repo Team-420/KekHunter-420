@@ -14,7 +14,7 @@
            revision="refs/tags/android-10.0.0_r41" />
   <remote name="pwn"
           revision="refs/heads/ten"
-          fetch="github.com/PWN-Hunter" />
+          fetch="github.com/" />
   
   <default revision="refs/heads/lineage-17.1"
            remote="github"
