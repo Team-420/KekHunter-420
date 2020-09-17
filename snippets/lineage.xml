@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- KekHunter additions -->
-    <project path="external/bash" name="LineageOS/android_external_bash" revision="PWN" />
+    <project path="external/bash" name="PWN-Hunter/android_external_bash" remote="pwn" />
   <!-- LineageOS additions -->
   <project path="android" name="LineageOS/android" />
   <project path="device/lineage/atv" name="LineageOS/android_device_lineage_atv" />
