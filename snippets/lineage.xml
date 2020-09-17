@@ -9,7 +9,6 @@
 
   <!-- KekHunter additions -->
     <project path="external/bash" name="PWN-Hunter/android_external_bash" remote="pwn" />
-    <project path="external/mesa3d" name="PWN-Hunter/mesa3d" groups="pdk-cw-fs,pdk-fs" remote="pwn" revision="google" />
 
   <!-- Parts that los dosent add by default -->
   <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" />
