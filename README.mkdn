@@ -13,6 +13,14 @@ repo init -u https://github.com/Team-420/KekHunter-420.git -b kek-17.1
 ```
 Then to sync up:
 ```
-repo sync
+repo sync --force-sync
+```
+If you wanna limit the download speed do these
+```
+sudo apt install trickle
+```
+Using trickle with repo sync (-sd 800 for 800kb/s, and -j1 to use one core with the limited speed, -j2 will x2 800kb to 1600kb/s)
+```
+trickle -sd 800 repo sync --force-sync -j1
 ```
 Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions, by device.
