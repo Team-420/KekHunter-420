@@ -474,7 +474,7 @@
   <project path="hardware/google/interfaces" name="platform/hardware/google/interfaces" groups="pdk" remote="aosp" />
   <project path="hardware/google/pixel" name="platform/hardware/google/pixel" groups="generic_fs,pixel" remote="aosp" />
   <project path="hardware/google/pixel-sepolicy" name="platform/hardware/google/pixel-sepolicy" groups="generic_fs,pixel" remote="aosp" />
-  <project path="hardware/interfaces" name="platform/hardware/interfaces" groups="pdk" remote="aosp" />
+  <project path="hardware/interfaces" name="LineageOS/android_hardware_interfaces" groups="pdk" remote="github" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense,pdk" remote="aosp" />
   <project path="hardware/knowles/athletico/sound_trigger_hal" name="platform/hardware/knowles/athletico/sound_trigger_hal" groups="coral,generic_fs" remote="aosp" />
   <project path="hardware/libhardware" name="LineageOS/android_hardware_libhardware" groups="pdk" />
@@ -724,7 +724,7 @@
   <project path="system/tools/sysprop" name="platform/system/tools/sysprop" groups="pdk" remote="aosp" />
   <project path="system/tools/xsdc" name="platform/system/tools/xsdc" groups="pdk" remote="aosp" />
   <project path="system/update_engine" name="platform/system/update_engine" groups="pdk" remote="aosp" />
-  <project path="system/vold" name="platform/system/vold" groups="pdk" remote="aosp" />
+  <project path="system/vold" name="LineageOS/android_system_vold" groups="pdk" remote="github" />
   <project path="test/app_compat/csuite" name="platform/test/app_compat/csuite" remote="aosp" />
   <project path="test/framework" name="platform/test/framework" groups="vts,projectarch,pdk" remote="aosp" />
   <project path="test/mlts/benchmark" name="platform/test/mlts/benchmark" groups="pdk" remote="aosp" />
