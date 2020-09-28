@@ -8,7 +8,6 @@
   <project path="vendor/qcom/common" name="proprietary_vendor_qcom_common" remote="ThankYM" revision="quartz" />
 
   <!-- KekHunter additions -->    
-  <project path="external/bash" name="PWN-Hunter/android_external_bash" remote="pwn" />
   <project path="vendor/lineage" name="PWN-Hunter/android_vendor_lineage" remote="pwn" revision="kek" />
   <project path="vendor/firmware" name="PWN-Hunter/firmware-linux" remote="pwn" revision="master" />
   <project path="vendor/libraries" name="PWN-Hunter/libraries" remote="pwn" revision="master" />
