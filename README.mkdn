@@ -1,4 +1,4 @@
-![Martinvlba's github stats](https://github-readme-stats.vercel.app/api?username=Martinvlba&show_icons=true&theme=algolia) ![JochenSplifficus's github stats](https://github-readme-stats.vercel.app/api?username=ouroboros420&show_icons=true&theme=algolia) ![Thiviyan's github stats](https://github-readme-stats.vercel.app/api?username=Thiviyan&show_icons=true&theme=algolia)
+![Martinvlba's github stats](https://github-readme-stats.vercel.app/api?username=Martinvlba&show_icons=true&theme=algolia) ![Thiviyan's github stats](https://github-readme-stats.vercel.app/api?username=Thiviyan&show_icons=true&theme=tokyonight) ![JochenSplifficus's github stats](https://github-readme-stats.vercel.app/api?username=ouroboros420&show_icons=true&theme=blue-green)
  
 LineageOS / KekHunter-420
 ===========
