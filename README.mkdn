@@ -1,9 +1,11 @@
-![Martinvlba's github stats](https://github-readme-stats.vercel.app/api?username=Martinvlba&show_icons=true&theme=algolia) ![Thiviyan's github stats](https://github-readme-stats.vercel.app/api?username=Thiviyan&show_icons=true&theme=tokyonight) ![JochenSplifficus's github stats](https://github-readme-stats.vercel.app/api?username=ouroboros420&show_icons=true&theme=blueberry)
- 
 LineageOS / KekHunter-420 (This manifest has been moved!!)
 ===========
 
 * New manifest: https://github.com/KekHunterOS/Manifest/tree/KEK-17.1
+
+![Martinvlba's github stats](https://github-readme-stats.vercel.app/api?username=Martinvlba&show_icons=true&theme=algolia)
+![Thiviyan's github stats](https://github-readme-stats.vercel.app/api?username=Thiviyan&show_icons=true&theme=tokyonight)
+![JochenSplifficus's github stats](https://github-readme-stats.vercel.app/api?username=ouroboros420&show_icons=true&theme=blueberry)
 
 Getting started
 ---------------
